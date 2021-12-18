@@ -15,7 +15,7 @@ To make it run:
   - npm start
  
  - Try the API using Postman
-  - get authors
-  - add author
-  - edit author
-  - delete author
+    - get authors
+    - add author
+    - edit author
+    - delete author
